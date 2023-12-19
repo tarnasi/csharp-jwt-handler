@@ -1,6 +1,6 @@
 # Csharp JWT Handler
 
-a simple impeltation of JWTBearer in ASP.net core API
+a simple implantation of JWTBearer in ASP.net core API
 
 ### Features
 
